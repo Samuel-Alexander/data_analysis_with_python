@@ -1,6 +1,6 @@
 # python-homework
 
 ## PyBank
-Pyton script that analyzes PnL data and prints summary to text file
+Python script that analyzes PnL data from csv file and prints summary to text file
 
 ## PyRamen
